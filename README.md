@@ -8,6 +8,7 @@
 
 <p align="center">
   <span style="font-size: 28px; font-weight: bold; color: #333; letter-spacing: 1px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">👨‍💻 Byun Minsub </span>
+    <br>
   <span style="font-size: 22px; color: #888; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-left: 10px;">🎂 1999.06.07</span>
   <br>🔹 Full Stack Developer
 </p>
