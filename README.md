@@ -1,6 +1,10 @@
+
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=20ee8e&height=120&text=&animation=&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&text=FinalProject&animation=&fontColor=000000&fontSize=70" />
     </div>
+
+
+    
     
 <h1 align="center">✨ About Me ✨</h1>
 <p align="center">"The journey of a thousand miles begins with one step"</p>
