@@ -7,7 +7,7 @@
 <p align="center"><i>"The journey of a thousand miles begins with one step"</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Byun%20Minsub-1999.06.07-lightgray?style=flat&logo=github&logoColor=black" alt="Profile Info">
+  <span style="font-size: 24px; font-weight: bold; color: #4CAF50;">Byun Minsub</span> - <span style="font-size: 20px; color: #777;">1999.06.07</span>
   <br>🔹 Full Stack Developer
 </p>
 
