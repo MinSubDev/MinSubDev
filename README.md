@@ -44,10 +44,10 @@
 <h2 align="center">💻 Contact me</h2>
 <p align="center">
   <a href="mailto:minsub.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120" height="40">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80" height="24">
   </a>
   <a href="https://www.notion.so/Study-1b6800b395a5800a9021e2c8d4681dcf" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" width="120" height="40">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" width="80" height="24">
   </a>
 </p>
 
