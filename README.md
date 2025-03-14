@@ -14,7 +14,7 @@
   <br>🔹 Full Stack Developer
 </p>
 
----
+
 
 <h2 align="center">⚙ Tech Stacks</h2>
 <p align="center">
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
 </p>
 
----
+
 
 <h2 align="center">💻 Contact me</h2>
 <p align="center">
