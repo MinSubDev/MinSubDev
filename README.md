@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/your_image_url_here.svg" alt="Wave Background" width="100%">
+</div>
+
+
 <h1 align="center">✨ About Me ✨</h1>
 <p align="center">"The journey of a thousand miles begins with one step"</p>
 
