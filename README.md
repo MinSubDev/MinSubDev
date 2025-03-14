@@ -43,7 +43,7 @@
   <a href="mailto:minsub.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.notion.so/ddit-1b6800b395a5800a9021e2c8d4681dcf" target="_blank">
+  <a href="https://www.notion.so/Study-1b6800b395a5800a9021e2c8d4681dcf" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
   </a>
 </p>
