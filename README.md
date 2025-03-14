@@ -22,14 +22,16 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+ 
+  <br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <br>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
+ 
   <br>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
